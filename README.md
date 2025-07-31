@@ -30,7 +30,6 @@ Fitur
 - Create, Read, Update, Delete ujian
 - Manage status ujian (aktif/nonaktif)
 - Set durasi ujian
-- View exam statistics
 
 ✅ Question Management (Admin)
 - Add questions to exams
